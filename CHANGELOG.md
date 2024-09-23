@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Removed
 
-## 2.0.0 - 2024-09-05
+## 2.0.0 - 2024-09-05 (yanked, in favor of return to new release of original open_id_authentication)
 COVERAGE:  55.56% -- 55/99 lines in 6 files
 BRANCH COVERAGE:  23.53% -- 4/17 branches in 6 branches
 ### Added
